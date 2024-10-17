@@ -16,6 +16,7 @@ This project is a simple chess game implemented in Java using Swing for the grap
 
 ## Getting Started
 
+
 ### Prerequisites
 - Java Development Kit (JDK) 8 or higher.
 - Any Java-compatible IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans) or a text editor.
