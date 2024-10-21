@@ -2,6 +2,7 @@
 
 # Chess Game in Java
 
+
 This project is a simple chess game implemented in Java using Swing for the graphical user interface (GUI). It features an 8x8 chessboard with standard chess pieces and allows two players to play a game of chess against each other.
 
 ## Features
@@ -15,7 +16,6 @@ This project is a simple chess game implemented in Java using Swing for the grap
 - Ability to reset the game.
 
 ## Getting Started
-
 
 ### Prerequisites
 - Java Development Kit (JDK) 8 or higher.
